@@ -1,0 +1,10 @@
+data
+out
+# 忽略 prompts 資料夾中的所有檔案
+prompts/*
+.env
+tmp
+
+# 但不忽略 specific_file.txt 檔案
+!prompts/example_prompt.txt
+

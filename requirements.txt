@@ -1,0 +1,16 @@
+langchain
+python-dotenv
+langchain-community
+google-generativeai
+pypdf
+langchain-qdrant
+langchain-core
+langchain-google-genai
+langchain-ollama
+qdrant-client
+chromadb
+pdfplumber
+pandas
+scikit-learn
+matplotlib 
+seaborn
